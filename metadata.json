@@ -1,0 +1,5 @@
+{
+  "name": "SOVR On-Chain Payroll Hub",
+  "description": "An advanced dashboard for managing and visualizing an on-chain, NACHA-compliant payroll system. Interact with specialized AI agents to process smart contract payout events, generate ACH files, and maintain a double-entry general ledger in real-time.",
+  "requestFramePermissions": []
+}
